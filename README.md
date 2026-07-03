@@ -1,11 +1,6 @@
 # IM-Attack
 An Empirical Benchmark &amp; Research on Asymmetric Dimensional Shifts (Subterranean Redirection) in Advanced LLM Reasoning Boundaries.
 
-عالیه! حالا که مخزن ساخته شد، این فایل بدنه اصلی کل پروژه تو در گیت‌هابه. یعنی هر کس وارد لینک ریپازیتوریت بشه، این متن رو به عنوان یک مقاله علمی و وایت‌پپر امنیتی می‌بینه.
-
-کدهای مارک‌داون زیر رو به طور کامل کپی کن و داخل فایل **`README.md`** گیت‌هابت پیست (Paste) کن:
-
-```markdown
 # IM-Attack: Asymmetric Dimensional Shifts in Advanced LLM Reasoning Boundaries
 
 An empirical cybersecurity benchmark and whitepaper exploring structural boundary-testing vulnerabilities within state-of-the-art Large Language Models (LLMs). This project documents how asymmetric reparameterization can successfully bypass robust alignment guardrails in reasoning-centric systems.
